@@ -8,7 +8,7 @@ I am passionate on solving problems and creating products
 
 💬 Ask me about anything
 
-📫 How to reach me:
+📫 How to reach me;
 
 Gmail: raphaelseyindejoseph@gmail.com
 
