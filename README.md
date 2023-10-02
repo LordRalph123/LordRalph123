@@ -1,16 +1,19 @@
-# comrade_id
+My name is Seyinde Raphael Joseph aka Lord Ralph
 
-A new Flutter project.
+A little about me;
 
-## Getting Started
+I am passionate on solving problems and creating products
 
-This project is a starting point for a Flutter application.
+👯 I’m looking to collaborate on any projects and oppurtunity that will make me grow
 
-A few resources to get you started if this is your first Flutter project:
+💬 Ask me about anything
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📫 How to reach me:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gmail: raphaelseyindejoseph@gmail.com
+
+twitter: https://twitter.com/LordRalphcodes
+
+LinkedIn:
+
+Whatsapp: +2348067836485
