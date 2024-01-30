@@ -14,6 +14,6 @@ Gmail: raphaelseyindejoseph@gmail.com
 
 twitter: https://twitter.com/LordRalphcodes
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/raphael-seyinde-aa040b190
 
 Whatsapp: +2348067836485
